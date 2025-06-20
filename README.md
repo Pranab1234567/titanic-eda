@@ -45,7 +45,7 @@ This is an **Exploratory Data Analysis (EDA)** project on the **Titanic dataset*
 ## ✍️ Author
 
 **Pranab Kumar Mahalik**  
-B.Tech CSE Student, 3rd Year  
+B.Tech CSE Student, 4th Year  
 Srinix College of Engineering
 
 ---
